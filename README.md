@@ -1,13 +1,13 @@
 # vdb-rs
 
-[![CI](https://github.com/cybercore-tech/vdb-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/cybercore-tech/vdb-rs/actions/workflows/ci.yml)
-[![Security](https://github.com/cybercore-tech/vdb-rs/actions/workflows/security.yml/badge.svg)](https://github.com/cybercore-tech/vdb-rs/actions/workflows/security.yml)
+[![CI](https://github.com/cybercoretech/vdb-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/cybercoretech/vdb-rs/actions/workflows/ci.yml)
+[![Security](https://github.com/cybercoretech/vdb-rs/actions/workflows/security.yml/badge.svg)](https://github.com/cybercoretech/vdb-rs/actions/workflows/security.yml)
 
 An embedded Rust vector database with LMDB transactions, durable recovery,
 checksummed mmap vector files, and a persisted HNSW graph. No server required.
 
 **Alpha: `0.1.0-alpha.1`, Rust 1.88+, Linux and macOS on local filesystems.**
-The [signed GitHub alpha release](https://github.com/cybercore-tech/vdb-rs/releases/tag/v0.1.0-alpha.1)
+The [signed GitHub alpha release](https://github.com/cybercoretech/vdb-rs/releases/tag/v0.1.0-alpha.1)
 is available, and [`cybercore-vdb`](https://crates.io/crates/cybercore-vdb) is published
 on crates.io. Install it as `vdb` using the dependency alias below.
 The previous pre-alpha on-disk format is incompatible;

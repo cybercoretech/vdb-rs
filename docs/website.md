@@ -1,6 +1,6 @@
 # vdb-rs project page
 
-GitHub Pages serves `main` → `/docs` at https://cybercore-tech.github.io/vdb-rs/.
+GitHub Pages serves `main` → `/docs` at https://cybercoretech.github.io/vdb-rs/.
 The root `index.html` mirrors `docs/index.html` with adjusted asset paths for
 root-directory previews. Update both copies when changing page content.
 
