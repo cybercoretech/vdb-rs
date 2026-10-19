@@ -4,6 +4,11 @@
 
 No changes yet.
 
+## 0.1.0-alpha.2
+
+Refresh the package version with corrected current organization metadata. No
+library API or runtime changes.
+
 ## 0.1.0-alpha.1
 
 First public alpha, published on crates.io as `cybercore-vdb` with the library name

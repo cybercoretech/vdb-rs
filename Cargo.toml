@@ -1,6 +1,6 @@
 [package]
 name = "cybercore-vdb"
-version = "0.1.0-alpha.1"
+version = "0.1.0-alpha.2"
 edition = "2024"
 rust-version = "1.88"
 description = "Embedded, crash-safe, Rust-native vector database (LMDB metadata + mmap'd vectors/HNSW index)"
